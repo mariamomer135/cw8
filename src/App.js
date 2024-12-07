@@ -24,7 +24,7 @@ class App extends Component {
         return (
 
 			    <div className="App">
-               <HelloWorld name={'Calvin Jenks'} />
+               <HelloWorld name={'Jennifer phan'} />
                <Counter />
                <FilteredList items={produce} />
           </div>
